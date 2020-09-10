@@ -1,0 +1,5 @@
+Rice Cooker;30
+Pot;60
+Knife;200
+Folk;20
+Bowl;50

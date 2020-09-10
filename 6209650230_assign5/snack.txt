@@ -1,0 +1,4 @@
+My snack list
+2
+BBQ Lays;20.0;3
+Kitkat;15.0;1

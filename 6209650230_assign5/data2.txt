@@ -1,0 +1,5 @@
+To buy at 7
+x
+BBQ Lays;20.0;3
+Egg;5
+Kitkat;15.0;1

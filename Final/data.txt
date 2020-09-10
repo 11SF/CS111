@@ -1,0 +1,10 @@
+Rice Cooker;30
+Microwave;0
+Pot;60
+Stove
+Knife;200
+Spoon;0
+Folk;20
+Dish;a
+Bowl;50
+Flipper;0

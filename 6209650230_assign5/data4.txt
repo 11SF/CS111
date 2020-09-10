@@ -1,0 +1,5 @@
+To buy at 7
+3
+BBQ Lays;20.0;3
+Kitkat;15.0;1
+Candy;10.0;2
